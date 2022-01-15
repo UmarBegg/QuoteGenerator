@@ -1,5 +1,5 @@
-import QuoteGenerator from "./QuoteGenerator";
-import NewQuote from "./NewQuote";
+import QuoteGenerator from "./Components/QuoteGenerator";
+import NewQuote from "./Components/NewQuote";
 import { useState } from "react";
 
 function App() {
